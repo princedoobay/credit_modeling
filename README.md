@@ -81,5 +81,3 @@ The following tools and libraries are used:
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
-# credit_modeling
